@@ -13,7 +13,7 @@ This project is a UI/UX design prototype that replicates the Netflix experience,
 
 ✔ Home browsing interface
 ✔ Movie/show detail screens
-✔ Search and category navigation
+✔ Search and category navigation 
 ✔ Beautiful, modern visual layout designed for mobile
 
 👉 Designed entirely in Figma with interactive prototyping features.
