@@ -36,8 +36,7 @@ Make sure the file paths match the actual folder and filenames in your repositor
 
 Figma — UI/UX Design & Interactive Prototyping
 
-(Optional future tech if building this into a real app)
-React | React Native | Flutter | HTML/CSS
+
 
 🚀 How to Use
 
